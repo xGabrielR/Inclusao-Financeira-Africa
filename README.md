@@ -1,2 +1,4 @@
-# Hackdays-Comunidade-DS
-Inclusão Financeira na África
+# 1° Hackdays-Comunidade-DS
+
+Tema: Inclusão Financeira na África
+Time: Eu e Deus
